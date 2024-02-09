@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color:rgb(175 228 198);
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #002b47;
+    color: #fff;
+}
+
+section {
+    margin: 20px 0;
+}
+
+h2 {
+    color: #002b47;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.skills {
+    font-weight: bold;
+    color: #27ae60;
+}
+
+.interests {
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+.traits {
+    font-weight: bold;
+    color:rgb(144, 23, 23)
+}
